@@ -1,3 +1,6 @@
+  GWorld : 0xC640158
+  GNames : 0xc67df00
+
   World.Levels                                         ->   0x160
   World.PersistentLevel                                ->   0x30
   GameInstance.LocalPlayers                            ->   0x38
